@@ -32,8 +32,5 @@ The application uses audio recording, frequency-domain analysis and numerical fe
 ## Running the Application
 Open the main MATLAB script or App Designer file, ensure the required supporting files are accessible, and run the application. A working microphone may be required.
 
-## Screenshots
-Add images of the application interface, FFT visualisation and identification results.
-
 ## Project Context
 Developed as part of university coursework to apply digital signal processing and MATLAB programming techniques.
